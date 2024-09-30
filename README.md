@@ -10,5 +10,5 @@ train
   └── pos
 ```
 ## Obtaining Pre-trained Model Weights
-To facilitate the use of pre-trained models in this project, we have hosted the pre-trained weights file 'pretrain.pth' on a web storage service. You can download the file from the following link:
+To facilitate the use of pre-trained models in this project, we have hosted the pre-trained weights file `pretrain.pth` on a web storage service. You can download the file from the following link:
 https://drive.google.com/file/d/1B9gxeAiWcFvTeQbSGmSvDL09Hu-uL5Z9/view?usp=drive_link
